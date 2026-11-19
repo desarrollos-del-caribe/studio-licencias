@@ -1,4 +1,11 @@
 {
-  "updatedAt": "2026-11-19T07:37:49.593Z",
-  "revoked": []
+  "updatedAt": "2026-11-19T07:37:57.211Z",
+  "revoked": [
+    {
+      "id": "LIC-20261119-6E4B96",
+      "app": "skydive-video-studio",
+      "client": "Skydive playadelcarme",
+      "revokedAt": "2026-11-19T07:37:56.947Z"
+    }
+  ]
 }
