@@ -1,11 +1,4 @@
 {
-  "updatedAt": "2026-11-19T08:52:35.142Z",
-  "revoked": [
-    {
-      "id": "LIC-20261119-DE5A77",
-      "app": "skydive-video-studio",
-      "client": "test",
-      "revokedAt": "2026-11-19T08:52:30.188Z"
-    }
-  ]
+  "updatedAt": "2026-11-19T08:53:16.101Z",
+  "revoked": []
 }
